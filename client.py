@@ -1,7 +1,5 @@
 from openai import OpenAI
  
-# pip install openai 
-# if you saved the key under a different environment variable name, you can do something like:
 client = OpenAI(
   api_key="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",
 )

@@ -13,7 +13,7 @@ import os
 recognizer = sr.Recognizer()
 engine = pyttsx3.init() 
 newsapi = "95b9f637b89243a68b7a98ad4a262720"
-openai_api_key = "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"
+api_key = "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"
 
 def speak_old(text):
     engine.say(text)
@@ -40,11 +40,10 @@ def speak(text):
     os.remove("temp.mp3") 
 
 def aiProcess(command):
-    client = OpenAI(api_key=openai_api_key,
-    )
+    client = OpenAI(api_key)
 
     completion = client.chat.completions.create(
-    model="gpt-3.5-turbo",
+    model="gpt-5.6-luna",
     messages=[
         {"role": "system", "content": "You are a virtual assistant named jarvis skilled in general tasks like Alexa and Google Cloud. Give short responses please"},
         {"role": "user", "content": command}
