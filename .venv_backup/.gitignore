@@ -1,22 +1,28 @@
-# Python cache files
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
 
 # Virtual environments
 venv/
 .venv/
 env/
 
-# Secret files
+# API keys and secrets
 .env
 .env.*
+!.env.example
 
-# VS Code settings
+# Temporary audio files
+temp.mp3
+temp_audio.mp3
+*.tmp
+
+# Logs
+*.log
+
+# VS Code
 .vscode/
 
-# System files
+# OS files
 .DS_Store
 Thumbs.db
-
-# Log files
-*.log
