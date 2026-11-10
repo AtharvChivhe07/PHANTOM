@@ -5,5 +5,12 @@ music = {
     "wolf": "https://www.youtube.com/watch?v=ThCH0U6aJpU&list=PLnrGi_-oOR6wm0Vi-1OsiLiV5ePSPs9oF&index=21",
     "sunsaweriya": "https://youtu.be/go-j1EpaGVo?si=-TveADSrCq6oNKF-",
     "mannbawra": "https://youtu.be/sz0vrNLFvz0?si=CcLQR_fzG14iCoSa",
-    "kahemoose": "https://youtu.be/zx_3gmcskZo?si=qO2S6HtBxm4Fn3It"
+    "kahemoose": "https://youtu.be/zx_3gmcskZo?si=qO2S6HtBxm4Fn3It",
+    "alone": "https://youtu.be/HhjHYkPQ8F0?si=Bp0I7S-_wW5IICA3",
+    "cheap thrills": "https://youtu.be/mY9fNwGE7YA?si=0BOVvPt7XRRnedHf",
+    "faded": "https://youtu.be/60ItHLz5WEA?si=SQbltYZKDHaOPQEH",
+    "on my way": "https://youtu.be/dhYOPzcsbGM?si=FYKaM90I6C7AfB_p",
+    "snap": "https://youtu.be/gVqGKkm7xBE?si=Y2zGpVeJR_yy0Yr-",
+    "night changes": "https://youtu.be/syFZfO_wfMQ?si=CKEavGTUtuXBhojP",
+    "perfect": "https://youtu.be/cNGjD0VG4R8?si=dc8JryYEalS_mNPR",
 }

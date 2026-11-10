@@ -1,7 +1,14 @@
+
+# important: In main program i used "GenAI" to handle the Ai commands, If you want to continue with genai just
+# add your api key and start using this Ai assistant... otherwise if you want to continue with open ai the code is
+# given bellow to make it simple and easy to use..!!
+
+
+
 from openai import OpenAI
  
 client = OpenAI(
-  api_key="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",
+  api_key="YOUR API KEY",
 )
 
 completion = client.chat.completions.create(
